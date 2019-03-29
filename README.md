@@ -37,9 +37,11 @@ Edit this document to include your answers after each question. Make sure to lea
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
     @A block has some white space above and below it, and tolerates no html elements next to it. (except when ordered otherwise, by addding a float declaration.)
+    Display: inline; means that the element is displayed inline; inside the current block on the same line.
 
 3. What are the 4 areas of the box model?
 The four areas of box model.
+@
 1. Content
 2. Padding
 3. Border
@@ -47,7 +49,7 @@ The four areas of box model.
 
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
     @If you use display: flex; on a container, it wil remain a block level element on the vertical axis. So using align-items: center; will center the items on the vertical (cross) axis.
-    
+
 5. Explain why git is valuable to a team of developers.
     @Git is valuable to developers, because it provides a centralized cloud based location to store, share, publish, test and collaborate on web dev projects.
 
