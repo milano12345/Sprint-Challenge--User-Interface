@@ -99,6 +99,7 @@ p {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
+    width: 109%;
 }
 
 .middle-content .boxes .box {
@@ -144,3 +145,99 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+.navbar {
+    display: flex;
+    justify-content: space-between;
+}
+.navbar nav  {
+    width: 102%;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    margin-bottom:10px;
+}
+.box1 {
+    background-color: teal;
+    height: 130px;
+    width: 130px;
+    padding: 40px;
+    margin: 13px;
+}
+
+.box2 {
+    background-color: gold;
+    height: 130px;
+    width: 130px;
+    padding: 40px;
+    margin: 13px;
+}
+
+.box3 {
+    background-color: cadetblue;
+    height: 130px;
+    width: 130px;
+    padding: 40px;
+    margin: 13px;
+}
+
+.box4 {
+    background-color: coral;
+    height: 130px;
+    width: 130px;
+    padding: 40px;
+    margin: 13px;
+}
+
+.box5 {
+    background-color: crimson;
+    height: 130px;
+    width: 130px;
+    padding: 40px;
+    margin: 13px;
+}
+
+.box6 {
+    background-color: forestgreen;
+    height: 130px;
+    width: 130px;
+    padding: 40px;
+    margin: 13px;
+}
+
+.box7 {
+    background-color: darkorchid;
+    height: 130px;
+    width: 130px;
+    padding: 40px;
+    margin: 13px;
+}
+
+.box8 {
+    background-color: hotpink;
+    height: 130px;
+    width: 130px;
+    padding: 40px;
+    margin: 13px;
+}
+
+.box9 {
+    background-color: indigo;
+    height: 130px;
+    width: 130px;
+    padding: 40px;
+    margin: 13px;
+}
+
+.box10 {
+    background-color: dodgerblue;
+    height: 130px;
+    width: 130px;
+    padding: 34px;
+    margin: 13px;
+}
+
+body {
+    margin: auto;
+    max-width: 788px;
+}
+
